@@ -5,7 +5,7 @@
 ## I'm an Enthusiastic Learner and Developer and I love to build things!!
 
 - 🔭 Currently learning from Programming Hero
-- 🌱 I’m currently learning MEARN Stack 
+- 🌱 Currently working with MEARN Stack 
 - 👯 Interested in machine learning approaches 
 - 🥅 2021 Goals: Level up as a porgrammar 
 - ⚡ Fun fact: I love to sketch and play video games
