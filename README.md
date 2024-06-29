@@ -34,9 +34,10 @@ In my free time, I enjoy reading books, listening to music, play video games and
 - 🥅 2024 Goals: Level up as a porgrammar 
 - ⚡ Fun fact: I love to sketch and play video games
 
-### Connect with me:
-<img align="left" alt="sifat18 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="sifat18 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sifat-ibn-awlad/) 
+
 
 <br />
 
