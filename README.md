@@ -4,10 +4,10 @@
 
 ## I'm an Enthusiastic Learner and Developer and I love to build things!!
 
-- 🔭 Currently learning from Programming Hero
-- 🌱 Currently working with MEARN Stack 
+- 🔭 Currently working as a frontend developer
+- 🌱 Currently Learning Next js and Typescript 
 - 👯 Interested in machine learning approaches 
-- 🥅 2021 Goals: Level up as a porgrammar 
+- 🥅 2024 Goals: Level up as a porgrammar 
 - ⚡ Fun fact: I love to sketch and play video games
 
 ### Connect with me:
