@@ -49,4 +49,6 @@ In my free time, I enjoy reading books, listening to music, play video games and
 
 
 ### Numbers
-![Sifat's Stats](https://github-readme-stats.vercel.app/api?username=sifat18&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Sifat's Stats](https://github-readme-stats.vercel.app/api?username=sifat18&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
+![Sifat's Streak](https://github-readme-streak-stats.herokuapp.com/?username=sifat18&theme=darcula&hide_border=true)
+![Sifat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sifat18&theme=gotham&show_icons=true&hide_border=true&layout=compact)
