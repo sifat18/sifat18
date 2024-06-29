@@ -16,6 +16,14 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
+I am a Full Stack Developer with a strong passion for React.js, RDBMS, and TailwindCSS, and **I'm currently open to new job opportunities**.
+
+Right now, I'm working as a frontend developer at [iBOS](https://ibos.io/), I get to play with JavaScript and React JS every day, building in-house products, end-user solutions, and consumer apps.
+
+In my free time, I enjoy reading books, listening to music, play video games and I am a huge fan of japanese animation.
+
+
+
 [![LinkedIn Follow](https://img.shields.io/linkedin/follow/sifat18?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/md-sifat-ibn-awlad-295115166/)
 
 ## I'm an Enthusiastic Learner and Developer and I love to build things!!
