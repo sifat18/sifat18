@@ -47,4 +47,6 @@ In my free time, I enjoy reading books, listening to music, play video games and
 - :partying_face: Fun fact:I love to play FIFA, I love to sleep.
 - :wrench: Tools - VSCode,Apollo,MongoDB, Docker and the Mighty Terminal.
 
-![Sifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sifat18&show_icons=true&theme=gruvbox)
+
+### Numbers
+![Sifat's Stats](https://github-readme-stats.vercel.app/api?username=sifat18&theme=darcula&show_icons=true&hide_border=true&count_private=true)
