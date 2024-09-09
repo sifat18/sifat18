@@ -38,7 +38,7 @@ In my free time, I enjoy reading books, listening to music, play video games and
 ### I'm an Enthusiastic Learner and Developer and I love to build things!!
 
 
-- :fireworks: 1 year work anniversary at [iBOS](https://ibos.io/). More than 2 years of experience in web development 
+- :fireworks: 2 year work anniversary at [iBOS](https://ibos.io/). More than 2 years of experience in web development 
 - 🔭 I’m currently working on  [PeopleDesk](https://ibos.io/peopledesk-best-hr-management-software/) a cloud-based solution that streamlines recruitment to onboarding, leave, payroll, movements, and retirement, all in one panel.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
